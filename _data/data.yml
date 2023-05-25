@@ -8,7 +8,7 @@ basic:
 contact:
   # meta
   location: Ontario, N2L2H6 # location
-  email: zenobia.pereira@gmail.com    # email address
+  email: zenobia.pereira@outlook.com    # email address
   phone: +1 437-255-1105 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -214,7 +214,7 @@ education:
       degree: PG Diploma
       description: 
 
-    - institution: University of Mumbai
+    - institution: Coimbatore University
       link:
       date: 
       major: Media & Entertainment Management
